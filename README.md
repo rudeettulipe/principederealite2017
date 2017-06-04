@@ -6,7 +6,7 @@ faire le premier EP( cd 4 titre) du groupe tulipe et le défendre sur internet
 objectif atteignable:
 le faire a partir du moi juin chanson et le visuelle a présenter au assocation d'aide au groupe de musique
 # équipe:
-guitariste mélodiste: gu2tara
+guitariste riffiste: gu2tara
 chanteur compositeur interprete et échantillonneur: el pendéro
 # la méthodologie:
 travaille en escalier itératif utilisation de gant.

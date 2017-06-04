@@ -13,6 +13,7 @@ travaille en escalier itératif utilisation de gant.
 # les risques:
 avoir la flemme d'enregistrer
 ne pas avoir le temps de le faire mixer
+ce faire pirater
 pas d'écoute auprès des association
 # les sponsors , les ressources:
 marin spector 
@@ -23,6 +24,8 @@ le chabada
 lully fletcher(écoute)
 fab (écoute)
 terry gaster 
+bilou (piano)
+benoi (batterie) 
 ## les livrables:
 4 chansons mélodie , arrangement , parole  : 1 ans dans la rue ,2 palpaption ,3 j'ai oublier le mot de passe,4 j'ai regarder le soleil.
 mise en place réseaux sociaux avant début juillet ; facebook twitter snapchat soundcloud( avec bot)
